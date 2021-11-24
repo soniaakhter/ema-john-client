@@ -23,3 +23,14 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.pagination{
+    margin: 30px;
+}
+.pagination button{
+    margin-right: 20px;
+    padding: 0 10px;
+}
+.pagination .selected{
+    background-color: rgb(38, 38, 255);
+    color: white;
+}
